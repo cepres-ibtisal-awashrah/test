@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="40" viewBox="0 0 60 40">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#979797" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" d="M51 3L57 9M51 9L57 3"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" d="M0 1L6 7M0 7L6 1" transform="translate(51 13)"/>
+    <polygon stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="22.5 13.5 26.5 9.5 30.5 13.5"/>
+    <polygon stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="4.5 14.5 8.5 10.5 12.5 14.5" transform="matrix(1 0 0 -1 0 25)"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-width="2" d="M48,35.8 L45.0303955,38.9675781"/>
+    <circle cx="52" cy="32" r="4" stroke="#FFF" stroke-width="2"/>
+  </g>
+</svg>

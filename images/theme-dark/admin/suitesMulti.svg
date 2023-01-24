@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="120" viewBox="0 0 220 120">
+  <defs>
+    <rect id="suitesmulti-a" width="51" height="26" x="151" y="18" rx="4"/>
+    <mask id="suitesmulti-c" width="51" height="26" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#suitesmulti-a"/>
+    </mask>
+    <rect id="suitesmulti-b" width="51" height="26" x="151" y="57" rx="4"/>
+    <mask id="suitesmulti-d" width="51" height="26" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#suitesmulti-b"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="156" height="36" x="51" y="52" fill="#66267B" fill-opacity=".35" rx="4"/>
+    <rect width="156" height="36" x="51" y="13" fill="#66267B" fill-opacity=".35" rx="4"/>
+    <use stroke="#66267B" stroke-dasharray="2 2" stroke-width="2" mask="url(#suitesmulti-c)" xlink:href="#suitesmulti-a"/>
+    <use stroke="#66267B" stroke-dasharray="2 2" stroke-width="2" mask="url(#suitesmulti-d)" xlink:href="#suitesmulti-b"/>
+    <path fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M75,26 L71.7142857,23 L65.5197143,23 C64.6788571,23 64,23.7053333 64,24.576 L64,37.6666667 C64,38.7866667 64.1941429,39 65.2857143,39 L80.7142857,39 C81.7942857,39 82,38.7866667 82,37.6666667 L82,26 L75,26 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="71 29 71 35 76 32"/>
+    <path fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M75,65 L71.7142857,62 L65.5197143,62 C64.6788571,62 64,62.7053333 64,63.576 L64,76.6666667 C64,77.7866667 64.1941429,78 65.2857143,78 L80.7142857,78 C81.7942857,78 82,77.7866667 82,76.6666667 L82,65 L75,65 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="71 68 71 74 76 71"/>
+    <path fill="#FFF" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M129.136429,29.5 L126.785714,27.5 L122.344286,27.5 C121.877143,27.5 121.5,27.89675 121.5,28.3865 L121.5,37.75 C121.5,38.38 121.607857,38.5 122.214286,38.5 L132.785714,38.5 C133.385714,38.5 133.5,38.38 133.5,37.75 L133.5,29.5 L129.136429,29.5 Z"/>
+    <path fill="#FFF" d="M126.136429,25.5 L123.785714,23.5 L119.344286,23.5 C118.877143,23.5 118.5,23.89675 118.5,24.3865 L118.5,33.75 C118.5,34.38 118.607857,34.5 119.214286,34.5 C119.625992,34.5 119.138433,34.5 119.344286,34.5 L120,34.5 L120,26 L126.136429,26 L126.136429,25.5 Z"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M130.5,27.5 C130.5,27.1274957 130.5,26.2450087 130.5,25.5 L126.136429,25.5 L123.785714,23.5 L119.344286,23.5 C118.877143,23.5 118.5,23.89675 118.5,24.3865 L118.5,33.75 C118.5,34.38 118.607857,34.5 119.214286,34.5 C119.625992,34.5 119.138433,34.5 119.344286,34.5"/>
+    <polygon fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" points="126.5 31.5 126.5 35.5 129.5 33.5"/>
+    <path fill="#FFF" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M129.136429,68.5 L126.785714,66.5 L122.344286,66.5 C121.877143,66.5 121.5,66.89675 121.5,67.3865 L121.5,76.75 C121.5,77.38 121.607857,77.5 122.214286,77.5 L132.785714,77.5 C133.385714,77.5 133.5,77.38 133.5,76.75 L133.5,68.5 L129.136429,68.5 Z"/>
+    <polygon fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" points="126.5 70.5 126.5 74.5 129.5 72.5"/>
+    <path stroke="#66267B" stroke-linecap="round" stroke-linejoin="round" d="M85.5 70.5L115.533203 70.5M85.5 31.5L115.533203 31.5"/>
+    <path fill="#FFF" d="M126.136429,64.5 L123.785714,62.5 L119.344286,62.5 C118.877143,62.5 118.5,62.89675 118.5,63.3865 L118.5,72.75 C118.5,73.38 118.607857,73.5 119.214286,73.5 C119.625992,73.5 119.138433,73.5 119.344286,73.5 L120,73.5 L120,65 L126.136429,65 L126.136429,64.5 Z"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M130.5,66.5 C130.5,66.1274957 130.5,65.2450087 130.5,64.5 L126.136429,64.5 L123.785714,62.5 L119.344286,62.5 C118.877143,62.5 118.5,62.89675 118.5,63.3865 L118.5,72.75 C118.5,73.38 118.607857,73.5 119.214286,73.5 C119.625992,73.5 119.138433,73.5 119.344286,73.5"/>
+    <circle cx="129" cy="97" r="2" fill="#66267B"/>
+    <circle cx="129" cy="104" r="2" fill="#66267B"/>
+    <circle cx="129" cy="111" r="2" fill="#66267B"/>
+  </g>
+</svg>

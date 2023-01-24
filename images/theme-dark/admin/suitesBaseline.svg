@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="120" viewBox="0 0 220 120">
+  <defs>
+    <rect id="suitesbaseline-a" width="51" height="18" x="151" y="23" rx="4"/>
+    <mask id="suitesbaseline-c" width="51" height="18" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#suitesbaseline-a"/>
+    </mask>
+    <rect id="suitesbaseline-b" width="51" height="18" x="151" y="57" rx="4"/>
+    <mask id="suitesbaseline-d" width="51" height="18" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#suitesbaseline-b"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="156" height="28" x="51" y="18" fill="#FCC200" opacity=".25" rx="4"/>
+    <path fill="#FFF" d="M135.136429,26.5 L132.785714,24.5 L128.344286,24.5 C127.877143,24.5 127.5,24.89675 127.5,25.3865 L127.5,34.75 C127.5,35.38 127.607857,35.5 128.214286,35.5 C128.625992,35.5 128.138433,35.5 128.344286,35.5 L129,35.5 L129,27 L135.136429,27 L135.136429,26.5 Z"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M139.5,28.5 C139.5,28.1274957 139.5,27.2450087 139.5,26.5 L135.136429,26.5 L132.785714,24.5 L128.344286,24.5 C127.877143,24.5 127.5,24.89675 127.5,25.3865 L127.5,34.75 C127.5,35.38 127.607857,35.5 128.214286,35.5 C128.625992,35.5 128.138433,35.5 128.344286,35.5"/>
+    <use stroke="#FCC200" stroke-dasharray="2 2" stroke-width="2" mask="url(#suitesbaseline-c)" xlink:href="#suitesbaseline-a"/>
+    <rect width="156" height="28" x="51" y="52" fill="#FCC200" opacity=".25" rx="4"/>
+    <path fill="#FFF" d="M135.136429,60.5 L132.785714,58.5 L128.344286,58.5 C127.877143,58.5 127.5,58.89675 127.5,59.3865 L127.5,68.75 C127.5,69.38 127.607857,69.5 128.214286,69.5 C128.625992,69.5 128.138433,69.5 128.344286,69.5 L129,69.5 L129,61 L135.136429,61 L135.136429,60.5 Z"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M139.5,62.5 C139.5,62.1274957 139.5,61.2450087 139.5,60.5 L135.136429,60.5 L132.785714,58.5 L128.344286,58.5 C127.877143,58.5 127.5,58.89675 127.5,59.3865 L127.5,68.75 C127.5,69.38 127.607857,69.5 128.214286,69.5 C128.625992,69.5 128.138433,69.5 128.344286,69.5"/>
+    <use stroke="#FCC200" stroke-dasharray="2 2" stroke-width="2" mask="url(#suitesbaseline-d)" xlink:href="#suitesbaseline-b"/>
+    <path fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M27,43 L23.7142857,40 L17.5197143,40 C16.6788571,40 16,40.7053333 16,41.576 L16,54.6666667 C16,55.7866667 16.1941429,56 17.2857143,56 L32.7142857,56 C33.7942857,56 34,55.7866667 34,54.6666667 L34,43 L27,43 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="23 46 23 52 28 49"/>
+    <path fill="#049474" d="M97,36 L91,36 L91,41 L79.2857143,41 C77.6367266,41 77,40.3345278 77,38.6666667 L77,25.576 C77,24.1606867 78.1185795,23 79.5197143,23 L85.7142857,23 C85.9637968,23 86.2042947,23.0932768 86.3885551,23.2615145 L89.3878487,26 L96,26 C96.5522847,26 97,26.4477153 97,27 L97,36 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="85 30 85 36 90 33"/>
+    <path fill="#049474" fill-rule="nonzero" d="M97,69.7577745 C96.284951,69.2791358 95.4250733,69 94.5,69 C92.0147186,69 90,71.0147186 90,73.5 C90,74.0259531 90.0902313,74.5308316 90.2560586,75 L79.2857143,75 C77.6367266,75 77,74.3345278 77,72.6666667 L77,59.576 C77,58.1606867 78.1185795,57 79.5197143,57 L85.7142857,57 C85.9637968,57 86.2042947,57.0932768 86.3885551,57.2615145 L89.3878487,60 L96,60 C96.5522847,60 97,60.4477153 97,61 L97,69.7577745 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="85 64 85 70 90 67"/>
+    <path fill="#FFF" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M138.136429,30.5 L135.785714,28.5 L131.344286,28.5 C130.877143,28.5 130.5,28.89675 130.5,29.3865 L130.5,38.75 C130.5,39.38 130.607857,39.5 131.214286,39.5 L141.785714,39.5 C142.385714,39.5 142.5,39.38 142.5,38.75 L142.5,30.5 L138.136429,30.5 Z"/>
+    <polygon fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" points="135.5 32.5 135.5 36.5 138.5 34.5"/>
+    <path fill="#FFF" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M138.136429,64.5 L135.785714,62.5 L131.344286,62.5 C130.877143,62.5 130.5,62.89675 130.5,63.3865 L130.5,72.75 C130.5,73.38 130.607857,73.5 131.214286,73.5 L141.785714,73.5 C142.385714,73.5 142.5,73.38 142.5,72.75 L142.5,64.5 L138.136429,64.5 Z"/>
+    <polygon fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" points="135.5 66.5 135.5 70.5 138.5 68.5"/>
+    <path stroke="#FCC200" stroke-linecap="round" stroke-linejoin="round" d="M103.5 67.5L123.533203 67.5M103.5 33.5L123.533203 33.5M37.5 46.527832L40.5393066 46.527832C43.2059733 46.5092773 44.5393066 45.1666667 44.5393066 42.5 44.5393066 38.5 44.5393066 39.472168 44.5393066 36 44.5393066 33.6852214 45.7059733 32.527832 48.0393066 32.527832L50 32.527832"/>
+    <path stroke="#FCC200" stroke-linecap="round" stroke-linejoin="round" d="M37.5,66.5 L40.5476074,66.5 C43.2142741,66.5 44.5476074,65.1320801 44.5476074,62.3962402 C44.5476074,58.2924805 44.5476074,59.4599609 44.5476074,55.4799805 C44.5476074,52.8266602 45.7142741,51.5 48.0476074,51.5 L50,51.5" transform="matrix(1 0 0 -1 0 118)"/>
+    <path stroke="#FCC200" stroke-linecap="round" stroke-linejoin="round" d="M44.5476074,93.5 C44.5476074,89.3962402 44.5476074,76.4599609 44.5476074,72.4799805 C44.5476074,69.8266602 45.7142741,68.5 48.0476074,68.5 L50,68.5" opacity=".4" transform="matrix(1 0 0 -1 0 162)"/>
+    <rect width="6" height="6" x="92" y="37" fill="#FFF"/>
+    <circle cx="94.5" cy="73.5" r="3.5" fill="#FFF"/>
+    <circle cx="129" cy="89" r="2" fill="#FCC200"/>
+    <circle cx="129" cy="96" r="2" fill="#FCC200"/>
+    <circle cx="129" cy="103" r="2" fill="#FCC200"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" stroke-width="2" d="M60,66 L66,66"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" stroke-width="2" d="M59.5,66.5 L65.5,66.5" transform="rotate(90 63 66.5)"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" stroke-width="2" d="M60,32 L66,32"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" stroke-width="2" d="M59.5,32.5 L65.5,32.5" transform="rotate(90 63 32.5)"/>
+  </g>
+</svg>

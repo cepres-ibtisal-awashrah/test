@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g fill="none" fill-rule="evenodd" stroke-linecap="round">
+    <path stroke="#376789" d="M9.5 9.5L4.5 9.5M9.5 9.5L7.5 5.5"/>
+    <polyline stroke="#3CB850" stroke-linejoin="round" points="14.921 7.225 15.558 9.275 17.679 9.275" transform="rotate(-45 16.3 8.25)"/>
+    <path stroke="#3CB850" d="M5.14479952,14.980513 C6.3401326,15.9316739 7.85369647,16.5 9.5,16.5 L9.5,16.5 C13.3659932,16.5 16.5,13.3659932 16.5,9.5 C16.5,5.63400675 13.3659932,2.5 9.5,2.5 C5.63400675,2.5 2.5,5.63400675 2.5,9.5" transform="matrix(-1 0 0 1 19 0)"/>
+  </g>
+</svg>

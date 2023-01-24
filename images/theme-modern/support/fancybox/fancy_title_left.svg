@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="32" viewBox="0 0 15 32">
+  <defs>
+    <path id="fancy_title_left-b" d="M15,3 C8.92486775,3 4,7.92486775 4,14 C4,20.0751322 8.92486775,25 15,25"/>
+    <filter id="fancy_title_left-a" width="181.8%" height="140.9%" x="-40.9%" y="-15.9%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#fancy_title_left-a)" xlink:href="#fancy_title_left-b"/>
+    <use fill="#202020" stroke="#FFF" stroke-width="2" xlink:href="#fancy_title_left-b"/>
+  </g>
+</svg>

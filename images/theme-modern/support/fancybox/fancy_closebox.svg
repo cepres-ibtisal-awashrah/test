@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <circle id="fancy_close-b" cx="15" cy="13" r="10"/>
+    <filter id="fancy_close-a" width="145%" height="145%" x="-22.5%" y="-17.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#fancy_close-a)" xlink:href="#fancy_close-b"/>
+    <use fill="#202020" stroke="#FFF" stroke-width="2" xlink:href="#fancy_close-b"/>
+    <g stroke="#FFF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" transform="translate(12 9)">
+      <line x2="6" y1="1" y2="7"/>
+      <line x2="6" y1="7" y2="1"/>
+    </g>
+  </g>
+</svg>

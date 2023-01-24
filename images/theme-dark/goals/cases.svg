@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="26" cy="26" r="26" fill="#282828"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" d="M38.5,28.5 L38.5,18.5245361 L27.7857143,18.5245361 L24.2142857,15.5 L15.6107143,15.5 C14.4428571,15.5 13.5,16.42575 13.5,17.5685 L13.5,34.75 C13.5,36.22 13.7696429,36.5 15.2857143,36.5 L30.5,36.5"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35,37 L35,29 L35,37 Z"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" d="M31,33 L39,33"/>
+    <polygon fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" points="23.5 23.5 23.5 30.5 29.5 27"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="run64-a" x1="21.225%" x2="78.775%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D1DBD"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#run64-a)" d="M28,21 C28,19.8954305 28.8954305,19 30,19 L34,19 C35.1045695,19 36,19.8954305 36,21 L40,21 C41.6568542,21 43,22.3431458 43,24 L43,45 C43,46.6568542 41.6568542,48 40,48 L24,48 C22.3431458,48 21,46.6568542 21,45 L21,24 C21,22.3431458 22.3431458,21 24,21 L28,21 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="29 31 29 39 36 35"/>
+    <path fill="#FFF" d="M29,22 L35,22 C36.1045695,22 37,22.8954305 37,24 L37,24 L27,24 L27,24 C27,22.8954305 27.8954305,22 29,22 Z" transform="matrix(1 0 0 -1 0 46)"/>
+  </g>
+</svg>

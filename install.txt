@@ -1,0 +1,18 @@
+TestRail Installation
+=====================
+
+Welcome to TestRail! Please see the TestRail Admin Manual on how to
+install and configure TestRail on your server. You can find the
+manual online on the Gurock Software website:
+
+http://docs.gurock.com/testrail-admin/
+
+If any questions come up during the installation of TestRail or if 
+there's anything else you need, please do not hesitate to contact the
+Gurock Software support:
+
+contact@gurock.com
+http://www.gurock.com/support/
+
+Kind regards,
+The TestRail Team

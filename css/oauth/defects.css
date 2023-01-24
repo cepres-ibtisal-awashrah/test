@@ -1,0 +1,58 @@
+.mt-2 {
+    margin-top: 10px;
+}
+.float-right {
+    float: right;
+}
+.install-card {
+    background-color: #d2e2ed;
+    width: 450px;
+    min-height: 150px;
+    border-radius: 3px;
+}
+.button-install {
+    outline: none;
+    display: block;
+    border: 1px solid #2684ff;
+    background: #2684ff url('../../images/defects/install_jira.svg') 8px 50% no-repeat;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Barlow', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    padding: 0px 8px 0px 30px;
+    cursor: pointer;
+    color: #fff !important;
+    text-decoration: none !important;
+    height: 26px;
+    line-height: 26px;
+    margin: 0;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+.img-left {
+    float: left;
+    width: 22%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.text-right {
+    float: left;
+    width: 76%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.install-heading {
+    font-size: 18px;
+    font-weight: 600;
+    color: #2684ff;
+    margin: 0px;
+}
+.install-subheading {
+    font-size: 14px;
+    margin-top: 15px;
+    color: #111;
+}
+.jira-addon-btn {
+    display: inline-block;
+    margin-top: 8px;
+}

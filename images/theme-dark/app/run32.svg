@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="run32-a" x1="25.803%" x2="74.197%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F"/>
+      <stop offset="92.94%" stop-color="#A429DE"/>
+      <stop offset="100%" stop-color="#FF40CB"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(7 4)">
+    <path fill="url(#run32-a)" d="M6,2 C6,0.8954305 6.8954305,2.22044605e-16 8,0 L9,0 C10.1045695,-2.22044605e-16 11,0.8954305 11,2 L13,2 C14.6568542,2 16,3.34314575 16,5 L16,20 C16,21.6568542 14.6568542,23 13,23 L3,23 C1.34314575,23 2.02906125e-16,21.6568542 0,20 L0,5 C-2.02906125e-16,3.34314575 1.34314575,2 3,2 L6,2 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="6 10 6 16 11.25 13"/>
+    <path fill="#282820" d="M5,3 L12,3 C12.5522847,3 13,3.44771525 13,4 L13,4 L4,4 L4,4 C4,3.44771525 4.44771525,3 5,3 Z" transform="matrix(1 0 0 -1 0 7)"/>
+  </g>
+</svg>

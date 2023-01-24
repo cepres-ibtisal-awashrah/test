@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g fill="none" fill-rule="evenodd" stroke-width="2" transform="translate(9 5)">
+    <path stroke="#F0F0F0" d="M2.4423327,3 C1.09792938,3 0,4.08806679 0,5.42658373 L0,34.5761991 C0,35.9119332 1.09792938,37 2.4423327,37 L25.5576673,37 C26.9048715,37 28,35.9119332 28,34.5761991 L28,5.42658373 C28,4.08806679 26.9048715,3 25.5576673,3 L2.4423327,3 Z"/>
+    <path stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" d="M23,13 L14,13"/>
+    <polyline stroke="#FCC200" stroke-linecap="round" stroke-linejoin="round" points="10.33 11.945 6.743 15.532 4.811 13.601"/>
+    <path stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" d="M23,21 L14,21"/>
+    <polyline stroke="#FCC200" stroke-linecap="round" stroke-linejoin="round" points="10.33 20.215 6.743 23.803 4.811 21.871"/>
+    <path stroke="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" d="M23,29 L14,29"/>
+    <polyline stroke="#FCC200" stroke-linecap="round" stroke-linejoin="round" points="10.33 28.487 6.743 32.075 4.811 30.14"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" stroke-linejoin="round" d="M5.02905946.366795367L5.02905946 5.57969112M11 .366795367L11 5.57969112M17 .366795367L17 5.57969112M23 .366795367L23 5.57969112"/>
+  </g>
+</svg>

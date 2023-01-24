@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="suite64-a" x1="0%" x2="96.855%" y1="87.556%" y2="14.807%">
+      <stop offset="0%" stop-color="#3CB850"/>
+      <stop offset="100%" stop-color="#049474"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#suite64-a)" d="M34,23 L29.8571429,19 L19.5328571,19 C18.1314286,19 17,20.1461667 17,21.561 L17,42.8333333 C17,44.6533333 17.3235714,45 19.1428571,45 L44.8571429,45 C46.6571429,45 47,44.6533333 47,42.8333333 L47,23 L34,23 Z"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="29 30 29 38 36 34"/>
+  </g>
+</svg>

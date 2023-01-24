@@ -1,0 +1,44 @@
+body {
+	font-family: 'Barlow', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857142857143;
+	color: #333333;  
+}
+
+p {
+	padding: 0;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+input {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	outline: none;
+	text-decoration: none;
+}
+
+a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+	color: #3b73af;
+	text-decoration: none;
+	background-color: transparent; /* Avoid background on click (IE) */
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+strong {
+	font-weight: 600;
+}
+
+em {
+	font-style: italic;
+}

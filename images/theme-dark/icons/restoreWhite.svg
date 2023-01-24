@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="12" height="4" x="1.511" y="9.5" stroke="#FFF" rx="1"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M1.51120711,11 C1.4962643,10.3893689 1.4962643,10.0560356 1.51120711,10 L3.31325049,5.24233735 C3.42998473,4.80458393 3.82643473,4.5 4.27948542,4.5 C4.58549577,4.5 4.37635938,4.5 4.52292586,4.5 M10.5112071,4.5 C10.6738119,4.5 10.4177192,4.5 10.7429288,4.5 C11.1959795,4.5 11.5924295,4.80458393 11.7091637,5.24233735 L13.5112071,10 L13.5112071,11"/>
+    <g stroke="#FFF" stroke-linecap="round" transform="matrix(1 0 0 -1 4.511 6)">
+      <line x1="2.5" x2="1.5" y1="5" y2="3" stroke-linejoin="round" transform="matrix(0 1 1 0 -2 2)"/>
+      <line x1="4.5" x2="3.5" y1="3" y2="5" stroke-linejoin="round" transform="matrix(0 1 1 0 0 0)"/>
+      <line x1="2.989" x2="3" y1=".5" y2="4.5"/>
+    </g>
+    <circle cx="3.511" cy="11.5" r="1" fill="#FFF"/>
+  </g>
+</svg>

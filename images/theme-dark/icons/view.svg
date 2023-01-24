@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g fill="none" fill-rule="evenodd">
+    <polyline stroke="#F0F0F0" stroke-linecap="round" stroke-linejoin="round" points="6 14.5 1.5 14.5 1.5 .5 7.972 .5 7.972 4.496 11.5 4.496"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" d="M11.5,4.5 L8,0.5"/>
+    <g transform="matrix(-1 0 0 1 15 7)">
+      <circle cx="4.923" cy="3.077" r="3.077" stroke="#F0F0F0" stroke-width="2"/>
+      <path stroke="#F0F0F0" stroke-linecap="round" stroke-width="2" d="M2,5.6 L0.0202636719,7.97568359"/>
+    </g>
+  </g>
+</svg>

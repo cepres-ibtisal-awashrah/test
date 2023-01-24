@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="44" viewBox="0 0 22 44">
+  <defs>
+    <linearGradient id="colorpicker_submit-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#481E94"/>
+      <stop offset="19.666%" stop-color="#6CF2FF"/>
+      <stop offset="35.355%" stop-color="#5DFF84"/>
+      <stop offset="46.562%" stop-color="#A4FF69"/>
+      <stop offset="61.36%" stop-color="#E0FF63"/>
+      <stop offset="76.83%" stop-color="#FC8089"/>
+      <stop offset="87.9%" stop-color="#F165DD"/>
+      <stop offset="100%" stop-color="#2A21C5"/>
+    </linearGradient>
+    <radialGradient id="colorpicker_submit-b" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="21" height="21" x=".5" y="22.5" fill="#202020" stroke="#444" rx="2"/>
+    <rect width="21" height="21" x=".5" y=".5" fill="#202020" stroke="#303030" rx="2"/>
+    <circle cx="11" cy="11" r="6.5" fill="url(#colorpicker_submit-a)" stroke="#F0F0F0"/>
+    <circle cx="11" cy="33" r="6.5" fill="url(#colorpicker_submit-a)" stroke="#979797"/>
+    <circle cx="11" cy="33" r="6.5" fill="url(#colorpicker_submit-b)"/>
+    <circle cx="11" cy="11" r="6.5" fill="url(#colorpicker_submit-b)"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="plan64-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D1DBD"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#plan64-a)" d="M37,23 L26,23 C24.3431458,23 23,24.3431458 23,26 L23,37 C21.8954305,37 21,36.1045695 21,35 L21,23 C21,21.8954305 21.8954305,21 23,21 L35,21 C36.1045695,21 37,21.8954305 37,23 Z"/>
+    <path fill="url(#plan64-a)" d="M40,26 L29,26 C27.3431458,26 26,27.3431458 26,29 L26,40 C24.8954305,40 24,39.1045695 24,38 L24,26 C24,24.8954305 24.8954305,24 26,24 L38,24 C39.1045695,24 40,24.8954305 40,26 Z"/>
+    <rect width="16" height="16" x="27" y="27" fill="url(#plan64-a)" rx="2"/>
+  </g>
+</svg>

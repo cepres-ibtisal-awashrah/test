@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="milestone32-a" x1="10.867%" x2="89.133%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#E4006D"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#milestone32-a)" fill-rule="nonzero" d="M7,20 L7,29 C7,30.3333333 5,30.3333333 5,29 L5,5 C5,4.44771525 5.44771525,4 6,4 L27,4 C27.8133726,4 28.2864967,4.91936972 27.8137335,5.58123819 L23.2289036,12 L27.8137335,18.4187618 C28.2864967,19.0806303 27.8133726,20 27,20 L7,20 Z"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="12 12 14 14 18 10"/>
+  </g>
+</svg>

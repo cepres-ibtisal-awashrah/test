@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#EE7D00" stroke="#EE7D00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="1 12 7 2 13 12"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" d="M7,8 L7,5"/>
+    <circle cx="7" cy="11" r="1" fill="#FFF"/>
+  </g>
+</svg>

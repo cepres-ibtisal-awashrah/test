@@ -1,0 +1,46 @@
+<?php if (!defined('ROOTPATH')) exit('No direct script access allowed'); ?>
+<?php
+
+$lang['validate_id'] = 'Field {0} is not a valid ID.';
+$lang['validate_role'] = 'Field {0} is not a valid role.';
+$lang['validate_user'] = 'Field {0} is not a valid user.';
+$lang['validate_users'] = 'Field {0} contains one or more invalid user IDs.';
+$lang['validate_user_active'] = 'Field {0} is not a valid active user.';
+$lang['validate_user_admin'] = 'Field {0} is not a valid administrator.';
+$lang['validate_group'] = 'Field {0} is not a valid user group.';
+$lang['validate_no_parent'] = 'Missing parent ID in object hierarchy for field {0}.';
+$lang['validate_milestone'] = 'Field {0} is not a valid milestone.';
+$lang['validate_project'] = 'Field {0} is not a valid or accessible project.';
+$lang['validate_project_parent'] = 'Field {0} does not have a valid or accessible parent project.';
+$lang['validate_field'] = 'Field {0} is not a valid custom field.';
+$lang['validate_suite'] = 'Field {0} is not a valid test suite.';
+$lang['validate_suite_parent'] = 'Field {0} does not have a valid parent test suite.';
+$lang['validate_section'] = 'Field {0} is not a valid section.';
+$lang['validate_section_parent'] = 'Field {0} does not have a valid parent section.';
+$lang['validate_status'] = 'Field {0} is not a valid status.';
+$lang['validate_status_no_untested'] = 'Field {0} uses an invalid status (Untested).';
+$lang['validate_status_no_active'] = 'Field {0} uses an inactive status.';
+$lang['validate_case'] = 'Field {0} is not a valid test case.';
+$lang['validate_case_ids'] = 'Field {0} contains unrecognized case IDs.';
+$lang['validate_case_type'] = 'Field {0} is not a valid case type.';
+$lang['validate_priority'] = 'Field {0} is not a valid priority.';
+$lang['validate_case_status'] = 'Field {0} is not a valid case status.';
+$lang['validate_uiscript'] = 'Field {0} is not a valid UI script.';
+$lang['validate_export'] = 'Field {0} is not a valid export.';
+$lang['validate_test'] = 'Field {0} is not a valid test.';
+$lang['validate_test_change'] = 'Field {0} is not a valid test result or comment.';
+$lang['validate_attachment'] = 'Field {0} is not a valid attachment.';
+$lang['validate_report'] = 'Field {0} is not a valid report.';
+$lang['validate_run'] = 'Field {0} is not a valid test run.';
+$lang['validate_run_parent'] = 'Field {0} does not have a valid parent test run.';
+$lang['validate_plan'] = 'Field {0} is not a valid test plan.';
+$lang['validate_plan_entry'] = 'Field {0} is not a valid test plan entry.';
+$lang['validate_config'] = 'Field {0} is not a valid configuration.';
+$lang['validate_config_group'] = 'Field {0} is not a valid configuration group.';
+$lang['validate_config_group_parent'] = 'Field {0} does not have a valid parent configuration group.';
+$lang['validate_template'] = 'Field {0} is not a valid template.';
+$lang['validate_template_project'] = 'Field {0} is not a valid template for the project.';
+$lang['validate_shared_step'] = 'Field {0} is not a valid shared test step.';
+$lang['delete_run_plan_denied'] = 'Field: run_id is not part of a test run. Please use delete_run instead.';
+$lang['delete_run_plan_entry_denied'] = 'Field :run_id is not part of a test run. Please use delete_plan_entry instead.';
+$lang['validate_section_move'] = 'Invalid parent_id or after_id. All section IDs must exist and be in the same project and suite. The parent_id may not be a child section of the section being moved.';

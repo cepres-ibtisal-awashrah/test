@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <linearGradient id="results_checked-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D1DBD"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="26" cy="26" r="26" fill="url(#results_checked-a)"/>
+    <rect width="12" height="12" x="20" y="11" fill="#5993BC" stroke="#F0F0F0" stroke-width="2" rx="2"/>
+    <rect width="12" height="12" x="20" y="30" fill="#5993BC" stroke="#F0F0F0" stroke-width="2" rx="2"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="23 36 25 38 29 34"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="23 17 25 19 29 15"/>
+    <circle cx="44.5" cy="44.5" r="7.5" fill="#3CB850"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48 42 43.333 47 41 44.5"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="9" viewBox="0 0 35 9">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#202020" stroke="#545454" points=".5 .5 .5 8.5 1.75 8.5 5.5 4.5 1.75 .5"/>
+    <polygon fill="#202020" stroke="#545454" points="29.5 .5 29.5 8.5 30.75 8.5 34.5 4.5 30.75 .5" transform="matrix(-1 0 0 1 64 0)"/>
+  </g>
+</svg>

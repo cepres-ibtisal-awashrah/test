@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" transform="translate(.489 3)">
+    <rect width="21" height="7" x=".511" y="11" stroke="#FFF" stroke-width="2" rx="1"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M0.519827967,12.5 C0.519827967,11.8333333 0.516954348,11.3333333 0.511207112,11 L3.98639683,3.31336608 C4.19292665,2.53887927 4.89433818,2 5.69588942,2 C6.23729233,2 6.75189718,2 7.01120711,2 M15.3188994,2 C15.6065849,2 16.038113,2 16.6134839,2 C17.4150352,2 18.1164467,2.53887927 18.3229765,3.31336608 L21.5112071,11 L21.5112071,12.5"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.7612071,8.75 L8.76120711,5.25" transform="matrix(0 1 1 0 2.761 -2.761)"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.23637,5.23603933 L12.2860442,8.76396067" transform="scale(1 -1) rotate(-89.19 6.162 0)"/>
+    <path stroke="#049474" stroke-linecap="round" stroke-width="2" d="M11.5112071,-5.68434189e-14 L11.5112071,8"/>
+    <circle cx="4.511" cy="15" r="1" fill="#F0F0F0"/>
+  </g>
+</svg>

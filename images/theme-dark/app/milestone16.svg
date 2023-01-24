@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="milestone16-a" x1="20.404%" x2="79.596%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#E4006D"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#milestone16-a)" fill-rule="nonzero" d="M5,10 L5,14 C5,15.3333333 3,15.3333333 3,14 L3,3 C3,2.44771525 3.44771525,2 4,2 L12,2 C12.8056411,2 13.2805589,2.90394604 12.8234667,3.56736461 L11.3196414,6 L12.8234667,8.43263539 C13.2805589,9.09605396 12.8056411,10 12,10 L5,10 Z"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="5.5 6.5 6.5 7.5 9.5 4.5"/>
+  </g>
+</svg>

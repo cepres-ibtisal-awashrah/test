@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>FusionCharts</title>
+<style>
+    img[src*='http'] {
+        display: block;
+    }
+</style>
+</head>
+<body>
+<div id='chartContainer'>FusionCharts XT will load here!</div>
+</body>
+<script type="text/javascript">
+    if (typeof window.callPhantom === 'function') {
+        var data = JSON.parse(window.callPhantom());
+	    var fusion = document.createElement('script');
+        fusion.src = data.baseurl + 'js/fusioncharts.js';
+        fusion.onload = function(){
+            var fusion_theme = document.createElement('script');
+            fusion_theme.src = data.baseurl + 'js/fusioncharts.theme.fusion.js';
+            fusion_theme.onload = function(){
+                var _0x172b=['915521FAOgwP','1WUUTor','85768HrInlH','1VBoajH','701113SlGqlh','596675VFZSmj','430136IMhboy','iyE4qlbA7A3C4A2F1D1I1B1A2A3B1B3fqyH2B7C-16xvhyA2E1lduC7E2B4E2F2G2C1B10B2D1E6C1E1E3E1G2c1D-16yC2A3E2yD1J2B3lozD1B1G4da1wB9B6C6dG-10A-8D3J2A9B1A8C7E1E5A2A1A1sB-22uE2D6G1F1H-8H-7lB8A5C7epG4d1I3B8lnE-13F4E2D3F1H4A10D9C1B5E6B1F4E3E1g==','9197lCfGYC','713897AESQnW','1QhbbSq','license','33GAfgRX'];var _0x3f57b9=_0x10c9;function _0x10c9(_0x3cfbbf,_0x10e5b7){_0x3cfbbf=_0x3cfbbf-0x73;var _0x172b34=_0x172b[_0x3cfbbf];return _0x172b34;}(function(_0x22f311,_0x1ab4f2){var _0x50a77f=_0x10c9;while(!![]){try{var _0x461480=parseInt(_0x50a77f(0x7b))+-parseInt(_0x50a77f(0x75))*-parseInt(_0x50a77f(0x7e))+parseInt(_0x50a77f(0x7c))+parseInt(_0x50a77f(0x78))+parseInt(_0x50a77f(0x7f))*parseInt(_0x50a77f(0x79))+parseInt(_0x50a77f(0x7a))*-parseInt(_0x50a77f(0x77))+-parseInt(_0x50a77f(0x76))*parseInt(_0x50a77f(0x73));if(_0x461480===_0x1ab4f2)break;else _0x22f311['push'](_0x22f311['shift']());}catch(_0x19bcfb){_0x22f311['push'](_0x22f311['shift']());}}}(_0x172b,0x7d53f),FusionCharts['options'][_0x3f57b9(0x74)]({'key':_0x3f57b9(0x7d),'creditLabel':![]}));
+                FusionCharts.ready(function(){
+                    var fusioncharts = new FusionCharts(data.config);
+                    fusioncharts.render();
+                });
+            }
+            document.body.appendChild(fusion_theme);
+        }
+        document.body.appendChild(fusion);
+    }
+</script>
+</html>

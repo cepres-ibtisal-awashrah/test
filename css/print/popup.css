@@ -1,0 +1,346 @@
+body {
+	font-family: 'Barlow', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+#contentContainer {
+	padding: 0;
+	font-size: 8pt;
+}
+
+.secondary {
+	font-size: 8pt;
+	color: #505050;
+}
+
+.configuration {
+	color: #337933;
+}
+
+#toolbar {
+	display: none;
+}
+
+h1 {
+	font-size: 10pt;
+	color: black;
+	border-bottom: 1pt solid #A0A0A0;
+}
+
+h1 .secondary {
+	font-size: 9pt;
+}
+
+h2 {
+	font-size: 9pt;
+	font-weight: normal;
+	color: black;
+}
+
+h3 {
+	font-size: 9pt;
+	color: black;
+	border-bottom: 1pt solid #B0B0B0;
+	padding-top: 0; 
+}
+
+h4 {
+	font-size: 8pt;
+	background: #DADADA;
+	padding: 3pt;
+	margin-top: 15pt;
+	margin-bottom: 10pt;
+	color: black;
+}
+
+/*******************************************************************/
+/* IO Table */
+
+.io-container {
+	background: #DADADA;
+	padding: 4px;
+	border-radius: 2px;
+	border: none;
+}
+
+.io label {
+	padding-bottom: 5pt;
+	color: black;
+}
+
+.io {
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	background: #DADADA;
+	table-layout: fixed;
+	word-wrap: break-word;	
+}
+
+.io td {	
+	padding: 3pt;
+	vertical-align: top;
+}
+
+.io td.border {	
+}
+
+/*******************************************************************/
+/* Table for the case steps */
+
+.steps {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	table-layout: fixed;
+}
+
+.steps col.no {
+	width: 20pt;
+}
+
+.steps th {
+	text-align: left;
+	color: #505050;
+	font-weight: 600;
+	padding-bottom: 5pt;
+}
+
+.steps th.content {
+	padding-left: 6pt;
+}
+
+.steps td {
+	border-top: 1pt solid #E0E0E0;
+	border-bottom: 4pt solid white;
+}
+
+.step-title {
+	margin: 0.5em 0;
+}
+
+.step-header {
+	font-weight: 600;
+	color: #303030;
+	margin: 1em 0;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #D7D7D7;
+}
+
+.step-content {
+	vertical-align: top;
+	padding: 8pt;
+}
+
+.step-index {
+	vertical-align: top;
+}
+
+/*******************************************************************/
+/* Changes Grid */
+
+.changes {
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+
+.changes .change {
+	overflow: auto;
+	border: 1pt solid #C0C0C0;
+}
+
+.changes .changeFirst {
+	border-top: 0;
+}
+
+.changes .change .changeType {
+	float: left;
+	width: 150pt;
+	text-align: left;
+	*padding: 2px 0;
+}
+
+.changes .meta {
+	padding-top: 0.5em; 	 
+	color: #707070; 	 
+	font-size: 8pt;
+}
+
+.changes .meta label {
+	color: #606060;
+	padding: 0;
+	margin: 0;
+}
+
+.changes .change .changeContent {
+	margin-right: 0pt;
+	margin-left: 170pt;
+}
+
+.changes .change .changeContent label {
+
+	margin-top: 1em;
+	color: #505050;
+	padding: 2pt 0;
+}
+
+.changes .change .changeBy {
+	float: right;
+	width: 100pt;
+	font-size: 8pt;
+}
+
+.changes table.steps td {
+	margin-bottom: 5pt;
+	border-top: 1pt solid #E0E0E0;
+	border-bottom: none;
+}
+
+.changes table.steps td.content {
+	padding: 3pt 8pt 6pt 8pt;
+}
+
+/*******************************************************************/
+/* Data table, aka The Grid. */
+
+.grid {
+	font-size: 8pt;
+}
+
+.grid th {
+	color: black;
+	border-bottom: 1pt solid #B0B0B0;
+}
+
+.grid td {
+	border-bottom: 1pt solid #C0C0C0;
+}
+
+.grid col.id {
+	width: 50pt;
+}
+
+.grid th, 
+.grid td {
+	padding: 0pt;
+	margin: 0;
+	text-align: left;
+	overflow: visible;
+	white-space: normal;
+	line-height: 1.2;
+}
+
+.grid td.result .meta {
+	font-size: 8pt;
+	margin-bottom: 0.5em;
+}
+
+.grid td.result label {
+	color: #505050;
+}
+
+.grid td.comment label {
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	color: #505050;
+	padding: 2pt 0;
+	border-bottom: 1pt solid #C0C0C0;
+}
+
+.grid col.priority {
+	width: 80pt;
+}
+
+.grid col.assigned {
+	width: 85pt;
+}
+
+.grid col.status {
+	width: 60pt;
+}
+
+.grid col.passed {
+	width: 65pt;
+}
+
+.grid col.info {
+	width: 55pt;
+}
+
+.grid th, 
+.grid td {
+	padding: 5pt;
+}
+
+.grid tr.header {
+	background: #DADADA;
+}
+
+/*******************************************************************/
+/* Test Status */
+
+.statusBox {
+	padding: 1pt 3pt;
+	font-size: 8pt;
+	padding: 1pt;
+}
+
+/*******************************************************************/
+/* Markdown */
+.markdown strong {
+	color: #303030;
+}
+
+.markdown p {
+	margin: 1em 0 1em 0;
+}
+
+.markdown *:last-child {
+	margin-bottom: 0;
+}
+
+.markdown h1 {
+	font-size: 10pt;
+	color: black;
+}
+
+.markdown h2 {
+	font-size: 9pt;
+	color: black;
+}
+
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+	font-size: 9pt;
+	color: #303030;
+}
+
+.markdown blockquote {
+	color: #303030;
+}
+
+.markdown hr {
+	color: #A0A0A0;
+	background-color: #A0A0A0;
+	height: 1pt;
+}
+
+.markdown pre {
+	*padding-bottom: 15pt;
+}
+
+.markdown-img-container {
+	width: 275pt;
+}
+
+.markdown-img {
+	max-width: 250pt;
+}
+
+.toolbar-sticky{
+	visibility: hidden;
+}
+.grid tr.header{
+	background: #ffffff;
+}

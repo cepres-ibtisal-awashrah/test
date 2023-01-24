@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="72" viewBox="0 0 108 72">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="13" height="13" x="2.5" y="20.5" stroke="#5993BC" rx="2"/>
+    <rect width="13" height="13" x="20.5" y="20.5" stroke="#5993BC" rx="2"/>
+    <rect width="8" height="8" x="23" y="23" fill="#AECADE" rx="1"/>
+    <rect width="13" height="13" x="38.5" y="20.5" stroke="#5993BC" rx="2"/>
+    <rect width="13" height="13" x="2.5" y="38.5" stroke="#376789" rx="2"/>
+    <rect width="13" height="13" x="20.5" y="38.5" stroke="#376789" rx="2"/>
+    <rect width="8" height="8" x="23" y="41" fill="#AECADE" rx="1"/>
+    <rect width="13" height="13" x="38.5" y="38.5" stroke="#376789" rx="2"/>
+    <path stroke="#E40046" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" d="M24 60L30 66M30 60L24 66"/>
+    <polyline stroke="#3CB850" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="13 60 7.667 66 5 63"/>
+    <polyline stroke="#244358" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42 45 44 47 48 43"/>
+    <polyline stroke="#244358" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42 27 44 29 48 25"/>
+    <path stroke="#AECADE" stroke-dasharray="1 1" d="M98.5 1L98.5 72M80.5 1L80.5 10.040625M62.5 1L62.5 6.5M44.5 1L44.5 10.040625"/>
+    <polygon fill="#049474" stroke="#049474" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="42 59 42 67 48 63"/>
+    <path stroke="#5993BC" d="M87.5,22.5 L87.5,30.5 L88,30.5 C88.8284271,30.5 89.5,29.8284271 89.5,29 L89.5,24 C89.5,23.1715729 88.8284271,22.5 88,22.5 L87.5,22.5 Z M83.5,30.5 L83.5,22.5 L78,22.5 C77.1715729,22.5 76.5,23.1715729 76.5,24 L76.5,29 C76.5,29.8284271 77.1715729,30.5 78,30.5 L83.5,30.5 Z"/>
+    <rect width="5" height="5" x="78" y="24" fill="#AECADE" rx="1"/>
+    <polygon stroke="#376789" stroke-linecap="round" stroke-linejoin="round" points="4.5 11.5 8.5 7.5 12.5 11.5" transform="rotate(90 8.5 9.5)"/>
+    <path stroke="#AECADE" stroke-dasharray="1 1" d="M87,9.5 L82,9.5" transform="rotate(-180 84.5 9.5)"/>
+    <path stroke="#AECADE" stroke-dasharray="1 1" d="M69,9.5 L64,9.5" transform="rotate(-180 66.5 9.5)"/>
+    <path stroke="#AECADE" stroke-dasharray="1 1" d="M51,9.5 L46,9.5" transform="rotate(-180 48.5 9.5)"/>
+    <polygon stroke="#376789" stroke-linecap="round" stroke-linejoin="round" points="58.5 11.5 62.5 7.5 66.5 11.5" transform="rotate(90 62.5 9.5)"/>
+    <polygon fill="#376789" stroke="#244358" stroke-linecap="round" stroke-linejoin="round" points="77.681 10.947 78.723 5.038 83.59 11.988" transform="rotate(-100 80.636 8.513)"/>
+    <polygon fill="#376789" stroke="#244358" stroke-linecap="round" stroke-linejoin="round" points="23.681 10.947 29.59 11.988 24.723 5.038" transform="rotate(-100 26.636 8.513)"/>
+    <path fill="#244358" fill-rule="nonzero" d="M85.5,20.7291715 C85.8664722,20.2820219 86.4026537,20 87,20 L87,21 C86.4649518,21 86,21.5007173 86,22.1538462 L86,31.8461538 C86,32.4992827 86.4649518,33 87,33 L87,34 C86.4026537,34 85.8664722,33.7179781 85.5,33.2708285 C85.1335278,33.7179781 84.5973463,34 84,34 L84,33 C84.5350482,33 85,32.4992827 85,31.8461538 L85,22.1538462 C85,21.5007173 84.5350482,21 84,21 L84,20 C84.5973463,20 85.1335278,20.2820219 85.5,20.7291715 Z"/>
+    <path fill="#D5A400" fill-rule="nonzero" d="M13.5003846,2 L7.5,2 L6,0 L0.499615385,0 C0.223846154,0 0,0.209176788 0,0.467476383 L0,10 C1.17647059,10 5.84313725,10 14,10 L14,2.46747638 C14,2.20917679 13.7761538,2 13.5003846,2 Z" transform="translate(57 21)"/>
+    <path fill="#D5A400" fill-rule="nonzero" d="M13.5003846,2 L7.5,2 L6,0 L0.499615385,0 C0.223846154,0 0,0.209176788 0,0.467476383 L0,11.6731771 C1.17647059,11.6731771 5.84313725,9.44878472 14,5 L14,2.46747638 C14,2.20917679 13.7761538,2 13.5003846,2 Z" transform="translate(57 39)"/>
+    <path fill="#FCC200" fill-rule="nonzero" d="M68.7790426 51L57.4317633 51C57.1476261 51 56.9410059 50.7160645 57.0152127 50.4271935L59.8196194 42.3356129C59.8703779 42.1376129 60.0411361 42 60.2361701 42L71.5834493 42C71.8675865 42 72 42.2856774 72 42.5728065L69.1955933 50.6643871C69.1448348 50.8623871 68.9740766 51 68.7790426 51zM70.5834493 33L57.4317633 33C57.1476261 33 56.9410059 32.7160645 57.0152127 32.4271935L57.0152127 24.3356129C57.0659711 24.1376129 57.2367293 24 57.4317633 24L70.5834493 24C70.8675865 24 71 24.2856774 71 24.5728065L71 32.6643871C70.9492415 32.8623871 70.7784833 33 70.5834493 33z"/>
+  </g>
+</svg>

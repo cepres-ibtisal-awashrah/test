@@ -1,0 +1,18 @@
+<?php //000a4
+echo('ionCube loader not installed. Please contact us at <a href="mailto:contact@gurock.com">contact@gurock.com</a> (' . __FILE__ .  ').' );exit(199);
+?>
+HR+cPs9bn6sEj/++GbVQKKv29xUmE1WaQN2X9EWWAigJyFn9hU4ZQVHUwmzwkeXggORLnadgT1ca
+hdoLq7Jq5ZPMMsPGtzQgUFhwxCrhyKX5EaRgnYppDBSkphNWj7hfigQF+bAQPYlfAegc+qPQwFN1
+88I1g5c5NMNyVQZlXzWPDno3NI7+tbQIuIF8Fm8JIZEzoYhM0BgXiXj2/e9VRNNnpJv2cdlEcYD/
+ugHvRbnfxzUYTsktE9N+F/tkgZH3MzHc0+fgTD0v85MoBeSBR0VxZZP5ve6rc2NoSF8uxlL9gpel
+SV/CE29bDUxjZcioi2Ny0r75GvyFQ4obj8d+RcvnnqJIOfpUfPlgeE7BvtxGIirJAXsJlCP2pc1/
+JByqvC1l2gkRQTfFMC/I79+nYwwXMswqNig0WfgR8ANtN8ugujoNbh/jaxAfL8LcefSkUZ8JY2IA
+6kw8GnrkxBJ/i0TGG8eWCSPS+3x5lvIhLbfddDm8h2qKS4nPPjSmUnC2i9w3dHFi+RFL8dG+rV/Z
+yeWv9N8KPTLYpxPg/UOo+w9ggX35ilp08R7EQnUxBKMrS7XrHEk4x6d/zwuEYXdAqc+VEbGCUhPu
+QJzxp60RY49sk9+U4uSSeuYAbUjs45NoWaWZY8WxdQLRbtKN9MaT/qYNHgPqrgV/8rsZgHlDMWTk
+Y+oX3bmbILQJ6GcTCcbyU6tZKuzuio6nyjty8nxMIicDq410B2OMa/4d76h1XvbBv6R+Jw+Hsqhr
+PTJAOtc7264Jakge+fMs6VKFnPtEnhZv87+wLnoHUUmFhDsexDdzitahcgPlmkvRShd/Jcq2Ae7M
+2PpP41DAddUdiBcW4sHgocbj/63zIe2KJDqW39SNke6zFscYHEBuMatrjJCI4ryQywxNFtGBliDp
+ECAVyWzB/R/Vk2DvXA1LjJleltXeAtmYU4XMFhqpzat47b6FirkXQJ4aydGCRw9YFzX5AvRbRuGE
+PF69Zd2QAHlAdK8i+gxuapeeVoOGLM2TfcbrIrwc0mDLxW+Ux7UhZJQfK7i6C40oKP2ipsO01Jke
+IHe+jW==

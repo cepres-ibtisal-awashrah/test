@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <linearGradient id="run_checked-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D1DBD"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="26" cy="26" r="26" fill="url(#run_checked-a)"/>
+    <circle cx="44.5" cy="44.5" r="7.5" fill="#3CB850"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48 42 43.333 47 41 44.5"/>
+    <rect width="20" height="25" x="16" y="14" stroke="#D2E2ED" stroke-width="2" rx="3"/>
+    <path stroke="#D2E2ED" stroke-width="2" d="M25,11 L27,11 C28.1045695,11 29,11.8954305 29,13 L29,14 L23,14 L23,13 C23,11.8954305 23.8954305,11 25,11 Z"/>
+    <path stroke="#D2E2ED" stroke-width="2" d="M23,14 L29,14 C30.1045695,14 31,14.8954305 31,16 L31,17 L21,17 L21,16 C21,14.8954305 21.8954305,14 23,14 Z" transform="matrix(1 0 0 -1 0 31)"/>
+    <polygon fill="#FFF" stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="23 24 23 32 30 28"/>
+  </g>
+</svg>

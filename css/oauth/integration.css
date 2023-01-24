@@ -1,0 +1,177 @@
+.hd_txt {
+    font-family: 'Barlow',-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-top: 0px;
+}
+.hd_txtright {
+    font-family: 'Barlow',-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.hd_sb_txt {
+    font-family: 'Barlow',-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-top: 10px;
+}
+.float_right {
+    float: right !important;
+}
+.margin_right {
+    margin-right: 22px;
+}
+.assembla_textlogo_width {
+    width: 12%;
+}
+.padding_bottom{
+    padding-bottom: 10px;
+}
+.margin_top{
+    margin-top: -17px;
+}
+.note_txt{
+    font-family: 'Barlow',-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #9fa2a5;
+    margin-top: 10px;
+}
+.quick_links{
+    text-decoration: none;
+    color: #5993bc;
+    cursor: pointer;
+}
+.tab_head{
+    font-family: 'Barlow',-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #202020;
+    margin-top: 0px;
+}
+
+.line_bottom{
+    border-bottom: 1px solid #d2e2ed;
+}
+.tab_fullsection {
+    float: left;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+}
+.tab_leftsection {
+    float: left;
+    box-sizing: border-box;
+    width: 15%;
+    padding: 10px;
+}
+.tab_rightsection {
+
+    box-sizing: border-box;
+    margin-left:15%;
+    padding: 10px;
+}
+.accordion {
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    background-color: #eaf1f7;
+}
+.panel {
+    padding: 0 18px;
+    display: block;
+    overflow: hidden;
+}
+
+/* ----------Added css-------------------------*/
+.integration-card {
+    background-color: #ffffff;
+    border-radius: 3px;
+}
+.integration-card:after {
+    content: ' ';
+    width: 100%;
+    display: inline-block;
+}
+.button-integration {
+    background: #376789 url('../../images/integration/jira/configuration-icon.svg') 8px 50% no-repeat;
+}
+.img-left-integration {
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.text-right-integration {
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.text-right-integration.quick_link {
+    width: 15%;
+}
+.integration-heading {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px;
+}
+.integration-subheading {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+.integration-text {
+    width: 54%;
+}
+.config-button {
+    float: right;
+    display: inline-block;
+    margin-top: 10px;
+}
+.mt-1 {
+    margin-top: 5px;
+}
+.mt-2 {
+    margin-top: 10px;
+}
+.mb-2 {
+    margin-bottom: 10px;
+}
+
+/* Dark Theme CSS*/
+.dark .integration-card {
+    background-color: #191919;
+    border: 1px solid #555;
+}
+.dark .integration-heading {
+    color: #d0d0d0;
+}
+.dark .integration-subheading {
+    color: #979797;
+}

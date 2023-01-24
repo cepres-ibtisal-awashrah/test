@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <linearGradient id="cases_checked-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D1DBD"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="26" cy="26" r="26" fill="url(#cases_checked-a)"/>
+    <path stroke="#F0F0F0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M39,28.6190476 L39,18.1685617 L27.8571429,18.1685617 L24.1428571,15 L15.1951429,15 C13.9805714,15 13,15.9698333 13,17.167 L13,35.1666667 C13,36.7066667 13.2804286,37 14.8571429,37 L30.68,37"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35,37 L35,29 L35,37 Z"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" d="M31,33 L39,33"/>
+    <polygon fill="#D2E2ED" stroke="#D2E2ED" stroke-linecap="round" stroke-linejoin="round" points="23.5 23.5 23.5 30.5 29.5 27"/>
+    <circle cx="44.5" cy="44.5" r="7.5" fill="#3CB850"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48 42 43.333 47 41 44.5"/>
+  </g>
+</svg>

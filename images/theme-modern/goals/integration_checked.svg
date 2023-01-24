@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <linearGradient id="integration_checked-a" x1="0%" x2="100%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#2D1DBD"/>
+      <stop offset="100%" stop-color="#66267B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="26" cy="26" r="26" fill="url(#integration_checked-a)"/>
+    <circle cx="30.5" cy="31.5" r="3.5" stroke="#FCC200" stroke-width="3"/>
+    <path stroke="#FCC200" stroke-linecap="round" stroke-width="3" d="M30.5 37.5L30.5 34.987915M30.5 28L30.5 25.5M33.0302734 28.9697266L34.9938965 27.0061035M26.0302734 35.9697266L27.9938965 34.0061035M34.9938965 35.9697266L33.0302734 34M27.9938965 28.9697266L26.0302734 27.0061035M36.5 31.5L34 31.5M24.5 31.5L27.012085 31.5"/>
+    <circle cx="44.5" cy="44.5" r="7.5" fill="#3CB850"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="48 42 43.333 47 41 44.5"/>
+    <path stroke="#D2E2ED" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M32,21 L32,19 L27,19 L27,17.3510328 C27,16.0579979 25.793035,15 24.5,15 C23.206965,15 22,16.0579979 22,17.3510328 L22,19 L17,19 L17,24 L18.6489672,23.9854343 C19.9420021,23.9854343 21,25.206965 21,26.5 C21,27.793035 19.9420021,29 18.6489672,29 L17,29.0145657 L17,34 L22,34"/>
+  </g>
+</svg>

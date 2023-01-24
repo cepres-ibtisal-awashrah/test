@@ -1,0 +1,70 @@
+#brandLogoDialog {
+    width: 709px;
+}
+
+#image-preview {
+    max-width:390px;
+    max-height: 150px;
+}
+
+.preview-background {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position: relative;
+    border-radius: 2px;
+    border: solid 1px #aecade;
+    margin: 10px 0px 10px 0px;
+    height: 190px;
+}
+
+#uploaded_image, #blank_image {
+    display:none;
+    border: 1px solid #000000;
+}
+
+.upload-button{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position: absolute;
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.inputfile + label {
+    border-radius: 2px;
+    border: solid 1px #376789;
+    background: #376789;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Barlow',-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    padding: 2px 8px 2px 8px;
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+    line-height: 26px;
+    margin: 0;
+    user-select: none;
+    -webkit-user-drag: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.brand_logo_rules {
+    list-style-type: none;
+}
+
+.brand_inline_block {
+    display: inline-block;
+}
+
+#no-image {
+    width: 18%;
+}

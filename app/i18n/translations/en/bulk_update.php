@@ -1,0 +1,30 @@
+<?php if (!defined('ROOTPATH')) exit('No direct script access allowed'); ?>
+<?php
+$lang['bulk_update_save_changes'] = 'Apply Changes';
+$lang['bulk_update_multiple_helper_steps'] = 'Steps to update multiple users';
+$lang['bulk_update_multiple_helper_review_users'] = 'Review the users to update or remove them from the selection.';
+$lang['bulk_update_multiple_helper_enable_fields'] = 'Enable the fields you want to update and select or enter their new values.';
+$lang['bulk_update_multiple_helper_save_changes'] = 'Save your changes (a dialog with a summary is shown before your changes are applied).';
+$lang['bulk_update_group_membership_description'] = 'Allows you to configure the groups of the users (group memberships).';
+$lang['bulk_update_settings_on'] = 'On';
+$lang['bulk_update_settings_off'] = 'Off';
+$lang['bulk_update_settings_active'] = 'Active';
+$lang['bulk_update_settings_inactive'] = 'Inactive';
+$lang['bulk_update_settings_yes'] = 'Yes';
+$lang['bulk_update_settings_no'] = 'No';
+$lang['bulk_update_enable_sso'] = 'Enable SSO';
+$lang['bulk_update_enable_mfa'] = 'Enable MFA';
+$lang['bulk_update_role'] = 'Role';
+$lang['bulk_update_active_status'] = 'Is Active Status';
+$lang['bulk_update_is_admin'] = 'Is Administrator';
+$lang['bulk_edit_none_selected'] = 'Please edit at least one field.';
+$lang['bulk_edit_toolbar_edit_selected'] = 'Edit selected';
+$lang['bulk_edit_toolbar_edit_all'] = 'Edit all in view';
+$lang['bulk_edit_toolbar_edit_selected_tooltip'] = 'Edit all selected users.';
+$lang['bulk_edit_toolbar_edit_all_tooltip'] = 'Edit all users in current view.';
+$lang['bulk_edit_no_user_selected'] = 'Please select at least one user.';
+$lang['bulk_edit_groups'] = 'Groups';
+$lang['bulk_edit_various'] = '[various]';
+$lang['bulk_edit_all'] = 'All';
+$lang['bulk_edit_none'] = 'None';
+$lang['bulk_edit_select'] = 'Select';

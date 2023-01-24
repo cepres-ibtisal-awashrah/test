@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M4,5 L10,5 C10,5.66666667 10,6.66666667 10,8 C10,10 8.5,11 7,11 C5.5,11 4,10 4,8 C4,6.66666667 4,5.66666667 4,5 Z"/>
+    <path fill="#FFF" d="M9,3 C8.55555556,3.66666667 7.88888889,4 7,4 C6.11111111,4 5.44444444,3.66666667 5,3 L9,3 Z" transform="matrix(1 0 0 -1 0 7)"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="4 6.5 3 6.5 1.528 5"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="12.488 6.5 11.488 6.5 10 5" transform="matrix(-1 0 0 1 22.488 0)"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M6.5,3.5 L5,2"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M9.47583008,3.5 L7.97583008,2" transform="matrix(-1 0 0 1 16.976 0)"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="5 12 4 11.5 3 10" transform="matrix(1 0 0 -1 0 22)"/>
+    <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="11 12 10 11.5 9 10" transform="rotate(180 10 11)"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M5,8.5 L1.52844238,8.5" transform="matrix(1 0 0 -1 0 17)"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" d="M13,8.5 L9.51208496,8.5" transform="rotate(180 11 8.5)"/>
+  </g>
+</svg>
